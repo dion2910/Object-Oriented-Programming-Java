@@ -23,7 +23,9 @@ The application is developed as a Command Line Interface application (non-Graphi
 ## Key Learning Objectives
 - Applying OO Concepts
 - Applying OO Design Principles
-- Model, Design and Develop an OO application
+- Model, Design and Develop an OO Application
+- Testing & Debugging
+- Presentation & Demonstration
 
 ## Tools used
 - UML Diagram Visual Paradigm

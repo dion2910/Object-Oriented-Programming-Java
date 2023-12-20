@@ -10,8 +10,8 @@ The application is developed as a Command Line Interface application (non-Graphi
 1. Lim Sin Le Dion
 2. Low Zhan Rong Jodian
 3. Low Zhan Qi Jodius
-4. Marcus
-5. Nigel
+4. Ong Yong Tze Marcus
+5. Nigel Isaiah Paliath
 
 ## Key Learning Objectives
 - Applying OO Concepts

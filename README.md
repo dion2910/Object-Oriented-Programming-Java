@@ -13,6 +13,13 @@ The application is developed as a Command Line Interface application (non-Graphi
 4. Ong Yong Tze Marcus
 5. Nigel Isaiah Paliath
 
+## Table of Contents
+1. Setup Instructions
+2. Key Learning Objectives
+3. Tools Used
+
+## Setup Instructions
+
 ## Key Learning Objectives
 - Applying OO Concepts
 - Applying OO Design Principles

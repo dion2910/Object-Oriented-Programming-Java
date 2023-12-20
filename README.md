@@ -20,7 +20,7 @@ IMPORTANT: Change the content of the String in:
 ## File Structure
  | File Name  | Content |
 | ------------- | ------------- |
-| CAMS Assignment  | Java source code files  |
+| CAMS assignment  | Java source code files  |
 | csv files | Csv files needed for the application program. The application reads/writes/creates/deletes csv files in this folder, hence it is essential that you follow the step mentioned above for the program to function properly.  |
 | UML Diagram | UML diagram of CAMs Application|
 

@@ -18,9 +18,11 @@ IMPORTANT: Change the content of the String in:
 <private String applicationFolderFilePath = "..\\SC2002 Project Application Folder\\csv files\\";> in the <CsvFilePaths.java> file to the file path of the "csv files" folder in your folder directory.
 
 ## File Structure
-1) "CAMS Assignment" folder - all java source code files
-2) csv files folder - all csv files needed for the application program. The application reads/writes/creates/deletes csv files in this folder, hence it is essential that you follow the step mentioned above for the program to function properly.
-3) "UML Diagram" pdf - UML diagram of CAMs application
+ | File Name  | Content |
+| ------------- | ------------- |
+| CAMS Assignment  | Java source code files  |
+| csv files | Csv files needed for the application program. The application reads/writes/creates/deletes csv files in this folder, hence it is essential that you follow the step mentioned above for the program to function properly.  |
+| UML Diagram | UML diagram of CAMs Application|
 
 ## Key Learning Objectives
 - Applying OO Concepts

@@ -15,8 +15,9 @@ The application is developed as a Command Line Interface application (non-Graphi
 
 ## Table of Contents
 1. Setup Instructions
-2. Key Learning Objectives
-3. Tools Used
+2. File Structure
+3. Key Learning Objectives
+4. Tools Used
 
 ## Setup Instructions (Important)
 IMPORTANT: Change the content of the String in: 

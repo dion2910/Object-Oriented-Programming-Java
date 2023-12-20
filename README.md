@@ -13,12 +13,6 @@ The application is developed as a Command Line Interface application (non-Graphi
 4. Ong Yong Tze Marcus
 5. Nigel Isaiah Paliath
 
-## Table of Contents
-1. Setup Instructions
-2. File Structure
-3. Key Learning Objectives
-4. Tools Used
-
 ## Setup Instructions (Important)
 IMPORTANT: Change the content of the String in: 
 <private String applicationFolderFilePath = "..\\SC2002 Project Application Folder\\csv files\\";> in the <CsvFilePaths.java> file to the file path of the "csv files" folder in your folder directory.

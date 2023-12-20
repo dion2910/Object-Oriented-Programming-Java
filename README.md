@@ -26,7 +26,7 @@ IMPORTANT: Change the content of the String in:
 - Applying OO Design Principles
 - Model, Design and Develop an OO Application
 - Testing & Debugging
-- Presentation & Demonstration
+- Documentation
 
 ## Tools used
 - UML Diagram Visual Paradigm

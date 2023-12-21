@@ -7,7 +7,7 @@ CAMs is an application for staff and students to manage, view and register for c
 The application is developed as a Command Line Interface application (non-Graphical User Interface). 
 
 ## Contributors 
-1. Lim Sin Le Dion ([@dion2910]https://github.com/dion2910)
+1. Lim Sin Le Dion ([@dion2910](https://github.com/dion2910))
 2. Low Zhan Rong Jodian (@JodianLow)
 3. Low Zhan Qi Jodius (@JodiusLow)
 4. Ong Yong Tze Marcus 

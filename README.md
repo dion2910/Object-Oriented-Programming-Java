@@ -8,10 +8,10 @@ The application is developed as a Command Line Interface application (non-Graphi
 
 ## Contributors 
 1. Lim Sin Le Dion ([@dion2910](https://github.com/dion2910))
-2. Low Zhan Rong Jodian (@JodianLow)
-3. Low Zhan Qi Jodius (@JodiusLow)
+2. Low Zhan Rong Jodian ([@JodianLow](https://github.com/JodianLow))
+3. Low Zhan Qi Jodius ([@JodiusLow](https://github.com/JodiusLow))
 4. Ong Yong Tze Marcus 
-5. Nigel Isaiah Paliath (@nigelip)
+5. Nigel Isaiah Paliath ([@nigelip](https://github.com/nigelip))
 
 ## Setup Instructions (Important)
 IMPORTANT: Change the content of the String in: 
